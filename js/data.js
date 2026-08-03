@@ -38,136 +38,121 @@ const KKN_DATA = {
       nama: "Rafli Maolana",
       jabatan: "Koordinator Desa (Kordes)",
       jurusan: "Hukum Keluarga",
-      foto: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=400",
+      foto: "images/rafli.jpeg",
       roleBadge: "Kordes",
-      wa: "6281298765432",
-      ig: "rafli_maolana"
+      ig: "rafliyxx"
     },
     {
       nama: "Andin Prasasti",
       jabatan: "Sekretaris I",
       jurusan: "Studi Agama Agama",
-      foto: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=400",
+      foto: "images/andin.jpeg",
       roleBadge: "Sekretaris",
-      wa: "6281555667788",
-      ig: "andin_prasasti"
+      ig: "prasastiandin"
     },
     {
       nama: "Siti Khumaeroh",
       jabatan: "Sekretaris II",
       jurusan: "Tadris Bahasa Inggris",
-      foto: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=400",
+      foto: "images/siti.jpeg",
       roleBadge: "Sekretaris",
-      wa: "6281555667789",
-      ig: "siti_khumaeroh"
+      ig: "memmeey_"
     },
     {
       nama: "Rahma Adinda",
       jabatan: "Divisi Logistik",
       jurusan: "Komunikasi Penyiaran Islam",
-      foto: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+      foto: "images/rahma.jpeg",
       roleBadge: "Logistik",
-      wa: "6281555667790",
-      ig: "rahma_adinda"
+      ig: "ra.adindaa_"
     },
     {
       nama: "Parisya Nasywa Hafidatur Rofiah",
       jabatan: "Bendahara",
       jurusan: "Perbankan Syariah",
-      foto: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+      foto: "images/parisya.jpeg",
       roleBadge: "Bendahara",
-      wa: "6281777889900",
-      ig: "parisya_nasywa"
+      ig: "prsyaa12"
     },
     {
       nama: "Anwar Hanifudin",
       jabatan: "Koordinator Divisi Humas",
       jurusan: "Manajemen Zakat Wakaf",
-      foto: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=400",
+      foto: "images/anwar.jpeg",
       roleBadge: "Humas",
-      wa: "6281999887766",
-      ig: "anwar_hanif"
+      ig: "ann_53210"
     },
     {
       nama: "Azizah Putri Aji",
       jabatan: "Divisi Humas",
       jurusan: "Tadris Matematika",
-      foto: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400",
+      foto: "images/azizah.jpeg",
       roleBadge: "Humas",
-      wa: "6281999887767",
-      ig: "azizah_putri"
+      ig: "aputriaji_"
     },
     {
       nama: "Fathiyatul Amelia",
       jabatan: "Koordinator Divisi Acara",
       jurusan: "Informatika",
-      foto: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=400",
+      foto: "images/fathiyatul.jpeg",
       roleBadge: "Acara",
-      wa: "6281444332211",
-      ig: "fathiyatul_amelia"
+      ig: "ftyameliaa"
     },
     {
       nama: "Ofi Muflihah",
       jabatan: "Divisi Acara",
       jurusan: "Pendidikan Bahasa Arab",
-      foto: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=400",
+      foto: "images/ofi.jpeg",
       roleBadge: "Acara",
-      wa: "6281444332222",
-      ig: "ofi_muflihah"
+      ig: "ofimuff_"
     },
     {
       nama: "Rifky Ardhi Nugraha",
       jabatan: "Divisi Acara",
       jurusan: "Bimbingan Konseling Islam",
-      foto: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=400",
+      foto: "images/rifky.jpeg",
       roleBadge: "Acara",
-      wa: "6281444332233",
-      ig: "rifky_ardhi"
+      ig: "rfkarddi"
     },
     {
       nama: "Muhamad Najmulmillah Fikri",
       jabatan: "Koordinator Divisi Pubdekdok",
       jurusan: "Ekonomi Syariah",
-      foto: "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&q=80&w=400",
+      foto: "images/najmulmillah.jpeg",
       roleBadge: "Pubdekdok",
-      wa: "6281666554433",
-      ig: "najmulmillah_fikri"
+      ig: "_najmulmf"
     },
     {
       nama: "Khairunnisa",
       jabatan: "Divisi Pubdekdok",
       jurusan: "Pendidikan Agama Islam",
-      foto: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=400",
+      foto: "images/khairunnisa.jpeg",
       roleBadge: "Pubdekdok",
-      wa: "6281666554444",
-      ig: "khairunnisa_pdd"
+      ig: "nisaaaas29"
     },
     {
       nama: "Yusifa Tegar Fardiyah",
       jabatan: "Divisi Pubdekdok",
       jurusan: "Pendidikan Agama Islam",
-      foto: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=400",
+      foto: "images/yusifa.jpeg",
       roleBadge: "Pubdekdok",
-      wa: "6281666554455",
-      ig: "yusifa_tegar"
+      ig: "shifaa.834"
     },
     {
       nama: "Muhamad Khayyan Muwaffiq",
       jabatan: "Koordinator Divisi Logistik",
       jurusan: "Hukum Ekonomi Syariah",
-      foto: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+      foto: "images/khayyan.jpeg",
       roleBadge: "Logistik",
-      wa: "6281888990011",
-      ig: "khayyan_muwaffiq"
+      ig: "khayyanmuwaffiq"
     },
     {
       nama: "Aprilia Nugrah Diastami",
       jabatan: "Divisi Logistik",
       jurusan: "Hukum Tata Negara",
-      foto: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=400",
+      foto: "images/aprilia.jpeg",
       roleBadge: "Logistik",
-      wa: "6281888990022",
-      ig: "aprilia_nugrah"
+      ig: "dyastmi"
     }
   ],
   proja: [],
@@ -176,17 +161,17 @@ const KKN_DATA = {
   cp: [
     {
       nama: "Anwar Hanifudin (Koor Humas)",
-      jabatan: "Koordinator Divisi Humas",
-      whatsapp: "6281999887766",
-      instagram: "anwar_hanif",
+      jabatan: "Divisi Humas",
+      whatsapp: "628953614171896",
+      instagram: "ann_53210",
       email: "humas.kkn33@gmail.com",
       status: "Aktif 24/7"
     },
     {
       nama: "Rafli Maolana (Kordes)",
       jabatan: "Koordinator Desa Gebangsari",
-      whatsapp: "6281298765432",
-      instagram: "rafli_maolana",
+      whatsapp: "62882005364127",
+      instagram: "rafliyxx",
       email: "kordes.kkn33@gmail.com",
       status: "Aktif"
     }

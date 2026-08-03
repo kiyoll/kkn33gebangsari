@@ -125,9 +125,6 @@ function renderStruktural() {
         <div class="member-role">${m.jabatan}</div>
         <div class="member-jurusan">${m.jurusan}</div>
         <div class="member-socials">
-          <a href="https://wa.me/${m.wa}?text=Halo%20${encodeURIComponent(m.nama)},%20saya%20warga%20Desa%20Gebangsari..." target="_blank" title="WhatsApp">
-            <i class="fab fa-whatsapp"></i>
-          </a>
           <a href="https://instagram.com/${m.ig}" target="_blank" title="Instagram">
             <i class="fab fa-instagram"></i>
           </a>
