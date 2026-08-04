@@ -162,7 +162,7 @@ const KKN_DATA = {
     {
       nama: "Anwar Hanifudin (Koor Humas)",
       jabatan: "Divisi Humas",
-      whatsapp: "628953614171896",
+      whatsapp: "62895361417189",
       instagram: "ann_53210",
       email: "humas.kkn33@gmail.com",
       status: "Aktif 24/7"
