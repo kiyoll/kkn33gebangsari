@@ -117,7 +117,7 @@ function renderStruktural() {
   grid.innerHTML = KKN_DATA.struktural.map(m => `
     <div class="member-card">
       <div class="member-img-wrap">
-        <img src="${m.foto}" alt="${m.nama}" loading="lazy">
+        <img src="${m.foto || 'images/logo.png'}" alt="${m.nama}" loading="lazy" onerror="this.onerror=null;this.src='images/logo.png'">
         <span class="member-badge">${m.roleBadge}</span>
       </div>
       <div class="member-info">
